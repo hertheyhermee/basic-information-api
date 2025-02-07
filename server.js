@@ -10,9 +10,9 @@ app.use(cors());
 // Main route
 app.get('/', (req, res) => {
   const response = {
-    email: "your-email@example.com", // Replace with your HNG12 Slack email
+    email: "tiamiyuhayzed@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/hertheyhermee/basic-information-api.git" // Replace with your actual GitHub URL
+    github_url: "https://github.com/hertheyhermee/basic-information-api.git"
   };
   
   res.status(200).json(response);
