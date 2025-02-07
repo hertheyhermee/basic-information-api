@@ -21,17 +21,17 @@ GET /
 
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "tiamiyuhayzed@gmail.com",
   "current_datetime": "2024-02-06T12:00:00Z",
-  "github_url": "https://github.com/yourusername/basic-information-api"
+  "github_url": "https://github.com/hertheyhermee/basic-information-api.git"
 }
 ```
 
 ### Response Fields
 
-- `email`: The email address used for HNG12 Slack registration
+- `email`: tiamiyuhayzed@gmail.com
 - `current_datetime`: Current UTC datetime in ISO 8601 format
-- `github_url`: URL to the project's GitHub repository
+- `github_url`: [URL to the project's GitHub repository](https://github.com/hertheyhermee/basic-information-api)
 
 ### Status Codes
 
@@ -77,7 +77,3 @@ GET /
 ## Related Resources
 
 For more information about Node.js development, visit: [HNG Node.js Developers](https://hng.tech/hire/nodejs-developers)
-
-## License
-
-This project is MIT licensed. 
